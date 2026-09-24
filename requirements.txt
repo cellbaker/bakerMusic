@@ -1,0 +1,5 @@
+python-telegram-bot[webhooks,socks]>=22.7,<23
+yt-dlp[default]>=2025.11.12
+ytmusicapi>=1.8
+requests[socks]
+python-dotenv>=1.0
